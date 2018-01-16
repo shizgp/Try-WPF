@@ -79,10 +79,71 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="images\_data.json" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\board_hover.png" />
+    <Resource Include="images\board_normal.png" />
+    <Resource Include="images\casual_hover.png" />
+    <Resource Include="images\casual_normal.png" />
+    <Resource Include="images\cd_hover.png" />
+    <Resource Include="images\cd_normal.png" />
+    <Resource Include="images\control_hover.png" />
+    <Resource Include="images\control_normal.png" />
+    <Resource Include="images\documentMessenger_hover.png" />
+    <Resource Include="images\documentMessenger_normal.png" />
+    <Resource Include="images\fastPing_hover.png" />
+    <Resource Include="images\fastPing_normal.png" />
+    <Resource Include="images\fps_hover.png" />
+    <Resource Include="images\fps_normal.png" />
+    <Resource Include="images\gomtv_hover.png" />
+    <Resource Include="images\gomtv_normal.png" />
+    <Resource Include="images\internet_hover.png" />
+    <Resource Include="images\internet_normal.png" />
+    <Resource Include="images\keyboard_hover.png" />
+    <Resource Include="images\keyboard_normal.png" />
+    <Resource Include="images\mobile_hover.png" />
+    <Resource Include="images\mobile_normal.png" />
+    <Resource Include="images\monitor_hover.png" />
+    <Resource Include="images\monitor_normal.png" />
+    <Resource Include="images\mouse_hover.png" />
+    <Resource Include="images\mouse_normal.png" />
+    <Resource Include="images\myComputer_hover.png" />
+    <Resource Include="images\myComputer_normal.png" />
+    <Resource Include="images\ncTalk_hover.png" />
+    <Resource Include="images\ncTalk_normal.png" />
+    <Resource Include="images\news_hover.png" />
+    <Resource Include="images\news_normal.png" />
+    <Resource Include="images\online_hover.png" />
+    <Resource Include="images\online_normal.png" />
+    <Resource Include="images\panel.png" />
+    <Resource Include="images\pnntv_hover.png" />
+    <Resource Include="images\pnntv_normal.png" />
+    <Resource Include="images\popular_hover.png" />
+    <Resource Include="images\popular_normal.png" />
+    <Resource Include="images\search_bar.png" />
+    <Resource Include="images\sendMail_hover.png" />
+    <Resource Include="images\sendMail_normal.png" />
+    <Resource Include="images\skin_hover.png" />
+    <Resource Include="images\skin_normal.png" />
+    <Resource Include="images\sports_hover.png" />
+    <Resource Include="images\sports_normal.png" />
+    <Resource Include="images\talkOn_hover.png" />
+    <Resource Include="images\talkOn_normal.png" />
+    <Resource Include="images\tvMovie_hover.png" />
+    <Resource Include="images\tvMovie_normal.png" />
+    <Resource Include="images\webGame_hover.png" />
+    <Resource Include="images\webGame_normal.png" />
+    <Resource Include="images\webtoon_hover.png" />
+    <Resource Include="images\webtoon_normal.png" />
+    <Resource Include="images\wLauncher_hover.png" />
+    <Resource Include="images\wLauncher_normal.png" />
+    <Resource Include="images\x_icon_hover.png" />
+    <Resource Include="images\x_icon_normal.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

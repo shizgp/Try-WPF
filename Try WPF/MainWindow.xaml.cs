@@ -23,5 +23,17 @@ namespace Try_WPF
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Console.WriteLine(button1.Background);
+            ImageBrush ib = (ImageBrush)button1.Background;
+            Console.WriteLine(ib.ImageSource);
+        }
+
+        private void Button_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }

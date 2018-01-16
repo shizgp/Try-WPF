@@ -1,0 +1,393 @@
+﻿{
+  "clickSound": "..\\defaultClick.wav",
+  "hoverSound": "..\\defaultHover.wav",
+  "offsetX": 0,
+  "offsetY": -50,
+  "windows": [
+    {
+      "type": "IconSearch",
+      "fileNames": [ "search_bar.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -378,
+      "verticalOffset": 342,
+      "clientRect": {
+        "x": 14,
+        "y": 8,
+        "width": 410,
+        "height": 24
+      },
+      "foregroundColor": "black",
+      "fontSize": 16,
+      "panelTitle": "게임 검색"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "sendMail_normal.png", "sendMail_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -118,
+      "verticalOffset": 342,
+      "id": "sendMail"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "internet_normal.png", "internet_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -90,
+      "verticalOffset": 214,
+      "id": "internet"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "popular_normal.png", "popular_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 14,
+      "verticalOffset": 214,
+      "id": "popular",
+      "panelTitle": "인기 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "online_normal.png", "online_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 118,
+      "verticalOffset": 214,
+      "id": "online",
+      "panelTitle": "온라인 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "mobile_normal.png", "mobile_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 222,
+      "verticalOffset": 214,
+      "id": "mobile",
+      "panelTitle": "모바일 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "webGame_normal.png", "webGame_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 326,
+      "verticalOffset": 214,
+      "id": "webGame",
+      "panelTitle": "웹 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "fps_normal.png", "fps_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -90,
+      "verticalOffset": 86,
+      "id": "fps",
+      "panelTitle": "FPS 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "sports_normal.png", "sports_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 14,
+      "verticalOffset": 86,
+      "id": "sports",
+      "panelTitle": "스포츠 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "casual_normal.png", "casual_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 118,
+      "verticalOffset": 86,
+      "id": "casual",
+      "panelTitle": "캐주얼 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "board_normal.png", "board_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 222,
+      "verticalOffset": 86,
+      "id": "board",
+      "panelTitle": "보드 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "cd_normal.png", "cd_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 326,
+      "verticalOffset": 86,
+      "id": "cd",
+      "panelTitle": "CD 게임"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "documentMessenger_normal.png", "documentMessenger_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 418,
+      "verticalOffset": 257,
+      "id": "document",
+      "panelTitle": "메신저 / 문서작성"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "tvMovie_normal.png", "tvMovie_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 498,
+      "verticalOffset": 257,
+      "id": "media",
+      "panelTitle": "TV / 영화"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "pnntv_normal.png", "pnntv_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 578,
+      "verticalOffset": 257,
+      "id": "pnntv",
+      "panelTitle": "PNN TV"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "talkOn_normal.png", "talkOn_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 418,
+      "verticalOffset": 171,
+      "id": "talkOn"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "ncTalk_normal.png", "ncTalk_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 498,
+      "verticalOffset": 171,
+      "id": "ncTalk"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "news_normal.png", "news_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 578,
+      "verticalOffset": 171,
+      "id": "news",
+      "panelTitle": "뉴스"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "wLauncher_normal.png", "wLauncher_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 418,
+      "verticalOffset": 86,
+      "id": "wLauncher"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "fastPing_normal.png", "fastPing_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 498,
+      "verticalOffset": 86,
+      "id": "fastPing",
+      "panelTitle": "패스트 핑"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "webtoon_normal.png", "webtoon_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 578,
+      "verticalOffset": 86,
+      "id": "webtoon",
+      "panelTitle": "웹툰"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "myComputer_normal.png", "myComputer_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 265,
+      "verticalOffset": 0,
+      "id": "myComputer"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "monitor_normal.png", "monitor_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 329,
+      "verticalOffset": 0,
+      "id": "monitorAspect"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "keyboard_normal.png", "keyboard_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 393,
+      "verticalOffset": 0,
+      "id": "keyboard"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "mouse_normal.png", "mouse_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 457,
+      "verticalOffset": 0,
+      "id": "mouse"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "control_normal.png", "control_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 521,
+      "verticalOffset": 0,
+      "id": "control",
+      "panelTitle": "제어판"
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "skin_normal.png", "skin_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 585,
+      "verticalOffset": 0,
+      "id": "skin"
+    },
+    {
+      "type": "BigBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -379,
+      "verticalOffset": 86,
+      "width": 468,
+      "height": 250
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -563,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -457,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -351,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -245,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -139,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -33,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 73,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "MiniBanner",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 179,
+      "verticalOffset": 0,
+      "backgroundColor": "#626872",
+      "foregroundColor": "White"
+    },
+    {
+      "type": "Panel",
+      "fileNames": [ "panel.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 2,
+      "verticalOffset": 390,
+      "clientRect": {
+        "x": 0,
+        "y": 46,
+        "width": 1227,
+        "height": 474
+      },
+      "foregroundColor": "White",
+      "iconMargin": 2
+    },
+    {
+      "type": "Text",
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": -288,
+      "verticalOffset": 872,
+      "id": "panelTitle",
+      "foregroundColor": "#626872",
+      "fontSize": 18,
+      "width": 600,
+      "height": 28
+    },
+    {
+      "type": "Button",
+      "fileNames": [ "x_icon_normal.png", "x_icon_hover.png" ],
+      "horizentalAlignment": "Center",
+      "verticalAlignment": "Bottom",
+      "horizentalOffset": 591,
+      "verticalOffset": 864,
+      "id": "panelClose"
+    }
+  ]
+}

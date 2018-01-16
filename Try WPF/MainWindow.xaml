@@ -5,8 +5,81 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Try_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="PurplePopLauncher" Height="488.596" Width="729.386" Visibility="Visible" AllowsTransparency="True" WindowStyle="None" OpacityMask="{DynamicResource {x:Static SystemColors.DesktopBrushKey}}" ResizeMode="NoResize" ShowInTaskbar="False" WindowStartupLocation="CenterScreen" Cursor="Arrow">
+    <Window.Background>
+        <ImageBrush/>
+    </Window.Background>
+    <WrapPanel HorizontalAlignment="Left" Height="214.912" Margin="10,248.903,0,0" VerticalAlignment="Top" Width="589.474" RenderTransformOrigin="0.392,2.422">
+        <Button Name="button1" Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,5">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="&#xA;" Width="70.616" Click="Button_Click" Height="98.332" BorderThickness="0" BorderBrush="{x:Null}" Margin="0,0,5,0">
+            <Button.Background>
+                <ImageBrush ImageSource="images/fps_normal.png"/>
+            </Button.Background>
+        </Button>
+    </WrapPanel>
+
 </Window>
